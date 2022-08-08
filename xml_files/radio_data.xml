@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<radio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="radio_data.xsd" totalrecord="4">
+	<radio-info id="1">
+		<nselect>Vodafone</nselect>
+		<apn>web.vodafone.de</apn>
+		<pin>5139</pin>
+		<username>vodafone</username>
+		<password>0002</password>
+		<pinghost>192.168.98.70</pinghost>
+		<keepalive>1</keepalive>
+		<iptables>NAT</iptables>
+		<crequest>Used</crequest>
+	</radio-info>
+	<radio-info id="2">
+		<nselect>Vodafone</nselect>
+		<apn>100</apn>
+		<pin>1455</pin>
+		<username>dsw</username>
+		<password>00</password>
+		<pinghost>000</pinghost>
+		<keepalive>2</keepalive>
+		<iptables>Not NAT</iptables>
+		<crequest>Not Used</crequest>
+	</radio-info>
+</radio>
